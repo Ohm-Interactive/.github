@@ -2,3 +2,4 @@
 # Welcome
 Welcome to Ω Interactive. We are a simpile Game Dev group who makes cool stuff.
 No new projects right now, but there might be in the future.
+Discord Sever: https://discord.gg/TggYZCYkuC
